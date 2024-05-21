@@ -3,6 +3,13 @@ title,Title,
 creator,Creator,
 date,Date Created,
 description,Description,
+resident,Resident
+nameofcemetery,Name of Cemetery
+locationincemetery,Location in Cemetery
+conditionofburialsite,Condition of Burial Site
+epitaph,Epitaph
+birthdate,Birthdate
+dateofdeath,Date of Death
 subject,Subjects,true
 location,Location
 latitude,Latitude
