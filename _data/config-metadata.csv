@@ -4,13 +4,14 @@ creator,Creator,
 date,Date Created,
 description,Description,
 resident,Resident
-yearofdeath,Year of Death
+timelinedate,Timeline Date
 nameofcemetery,Name of Cemetery
 locationincemetery,Location in Cemetery
 conditionofburialsite,Condition of Burial Site
 epitaph,Epitaph
 birthdate,Birthdate
 dateofdeath,Date of Death
+notes, Notes
 subject,Subjects,true
 location,Location
 latitude,Latitude
