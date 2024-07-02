@@ -12,6 +12,7 @@ epitaph,Epitaph
 birthdate,Birthdate
 dateofdeath,Date of Death
 notes, Notes
+linktocemeterycensus, Link to Cemetery Census
 subject,Subjects,true
 location,Location
 latitude,Latitude
