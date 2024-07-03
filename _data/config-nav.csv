@@ -1,6 +1,8 @@
 display_name,stub,dropdown_parent
 Home,/
 Browse,/browse.html
+Featured Cemeteries,/featuredcemeteries.html
+Stories,/stories.html
 Subjects,/subjects.html
 Locations,/locations.html
 Map,/map.html
