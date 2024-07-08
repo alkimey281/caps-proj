@@ -8,10 +8,9 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
+{% include feature/jumbotron.html objectid="HC3" %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
-
+{% include feature/nav-menu.html sections="About the Collection" %}
 ## Collection History
 
 In December 2022 the Senate passed the African-American Burial Grounds Preservation Act which directs the Department of the Interior to make grants available to state and local agencies as well as to tribal governments, public groups, educational institutions, nonprofits, and historic preservation organizations for the following purposes:
