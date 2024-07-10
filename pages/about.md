@@ -38,7 +38,7 @@ For each cemetery there will be several photographs of the site including some o
 There are also pages under development for Featured Cemeteries and Stories. The Featured Cemeteries page will include information on the history of the land these cemeteries rest on as well as on the communities that evolved around them and continue to support them. On the Stories page you will be able to read about some of the inspiring individuals interred in these cemeteries including their lives, accomplishments, and contributions to society. So many of the individuals buried in these cemeteries rose from slavery to become integral parts of the social, cultural, political, and financial growth of North Carolina and of the larger United States as well. 
 
 
-[Link](https://www.congress.gov/bill/117th-congress/house-bill/6805/text/ "Link to the African-American Burial Grounds Preservation Act")
+[Link to the African-American Burial Grounds Preservation Act of 2022](https://www.congress.gov/bill/117th-congress/house-bill/6805/text/ "Link to the African-American Burial Grounds Preservation Act")
 
 
 
